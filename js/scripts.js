@@ -1,5 +1,5 @@
 $(document).ready(function() {
-  $(".clickable").click(function()
-    $("#show-card").toggle();
-    $("#hide-card").toggle();
-}
+  $(".clickable").click(function() {
+    $(".hide-card").toggle();
+  });
+});
