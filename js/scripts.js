@@ -1,8 +1,57 @@
 $(document).ready(function() {
   $(".javascript-card").click(function() {
-    $(".hide-card").toggle();
+    $(".javascript-hide").toggle();
   });
   $(".operators-card").click(function() {
-    $(".hide-card1").toggle();
+    $(".operators-hide").toggle();
   });
+  $(".operators-card").click(function() {
+    $(".-hide").toggle();
+  });
+  $(".operators-card").click(function() {
+    $(".-hide").toggle();
+  });
+  $(".operators-card").click(function() {
+    $(".-hide").toggle();
+  });
+  $(".operators-card").click(function() {
+    $(".-hide").toggle();
+  });
+  $(".operators-card").click(function() {
+    $(".-hide").toggle();
+  });
+  $(".operators-card").click(function() {
+    $(".-hide").toggle();
+  });
+  $(".operators-card").click(function() {
+    $(".-hide").toggle();
+  });
+  $(".operators-card").click(function() {
+    $(".-hide").toggle();
+  });
+  $(".operators-card").click(function() {
+    $(".-hide").toggle();
+  });
+  $(".operators-card").click(function() {
+    $(".-hide").toggle();
+  });
+  $(".operators-card").click(function() {
+    $(".-hide").toggle();
+  });
+  $(".operators-card").click(function() {
+    $(".-hide").toggle();
+  });
+  $(".operators-card").click(function() {
+    $(".-hide").toggle();
+  });
+  $(".operators-card").click(function() {
+    $(".-hide").toggle();
+  });
+  $(".operators-card").click(function() {
+    $(".-hide").toggle();
+  });
+  $(".operators-card").click(function() {
+    $(".-hide").toggle();
+  });
+  
 });
